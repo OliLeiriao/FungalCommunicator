@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+#title{
+    color: orange;
+    font-family: "Rubik Puddles", system-ui;
+    font-style: normal;
+}
